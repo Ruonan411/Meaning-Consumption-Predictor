@@ -26,7 +26,7 @@ graph TD
 ### 1. 本地运行
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/meaning-consumption-research.git
+git clone https://github.com/Ruonan411/meaning-consumption-research.git
 
 # 安装依赖
 pip install -r requirements.txt
