@@ -62,6 +62,5 @@ python src/model_trainer.py --product_desc "可录音骨灰盒"
 3. 添加新的商业验证案例
 
 
-> **人性也许可量化，但不可商品化**  
 
 ### 仅作个人研究
