@@ -4,9 +4,6 @@
 
 **用AI解码现代消费的深层心理密码**：预测下一个爆款的情感溢价与市场潜力
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/meaning-consumption-research/blob/main/notebooks/01_Data_Exploration.ipynb)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/your-username/meaning-forecast)
-
 ## 研究亮点
 - **MEANING-5量化框架**：情感强度/文化适配/痛苦替代/社交传播/稀缺感知
 - **精准预测爆款**：在xxx等赛道验证准确率xx%
@@ -39,7 +36,7 @@ python src/model_trainer.py --product_desc "可录音骨灰盒"
 ```
 
 ### 2. 在线体验
-[![Streamlit Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-meaning-research.streamlit.app/)
+
 
 ## 核心发现
 | 产品类别       | 预测爆发概率 | 实际结果   | 情感溢价率 |
